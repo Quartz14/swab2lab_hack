@@ -1,7 +1,5 @@
 Flask
 plotly
-json
 pandas
 numpy
 sqlalchemy
-sqlite3
